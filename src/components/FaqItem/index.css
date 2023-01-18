@@ -1,0 +1,25 @@
+/* Write your code here. */
+.list-container {
+  width: 100%;
+  list-style: none;
+  color: #52606d;
+  border-style: solid;
+  border-color: #d7dae6;
+  border-radius: 8px;
+  margin-top: 24px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 16px;
+}
+.question-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
